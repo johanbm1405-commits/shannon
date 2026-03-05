@@ -686,7 +686,7 @@ For a detailed breakdown of features, technical differences, and enterprise use 
 
 📧 **Email**: [shannon@keygraph.io](mailto:shannon@keygraph.io)
 
----
+--
 
 <p align="center">
   <b>Built with ❤️ by the Keygraph team</b><br>

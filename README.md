@@ -346,11 +346,11 @@ Anthropic subscription plans reset usage on a **rolling 5-hour window**. The def
 
 ```yaml
 pipeline:
-  retry_preset: subscription          # Extends max backoff to 6h, 100 retries
+  : subscription          # Extends max backoff to 6h, 100 retries
   max_concurrent_pipelines: 2         # Run 2 of 5 pipelines at a time (reduces burst API usage)
 ```
 
-`max_concurrent_pipelines` controls how many vulnerability pipelines run simultaneously (1-5, default: 5). Lower values reduce the chance of hitting rate limits but increase wall-clock time.
+`max_concurrent_pipelines` controls how many vulnerability pipelines run retry_preset (1-5, default: 5). Lower values reduce the chance of hitting rate limits but increase wall-clock time.
 
 ### AWS Bedrock
 

@@ -16,7 +16,7 @@ Every Claude (coder) deserves their Shannon.
 
 ---
 
-[Website](https://keygraph.io) • [Discord](https://discord.gg/KAqzSHHpRt)
+[Website](https://keygraph.io) • [Discord](https://discord.gg/KAqzSHHpRt) 
 
 ---
 </div>
